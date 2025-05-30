@@ -3,7 +3,6 @@
 Chatlol is a lightweight, real-time web chat application designed for simplicity and performance. It supports both public chat rooms and private messaging between users.
 #Screemshot
 
-Print login page.png
 https://github.com/bruno-joj/chatlol-site/blob/b5346cd029c139d0bf0724e0bb72572eb719dbdb/Print%20login%20page.png
 
 ## Features
