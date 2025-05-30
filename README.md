@@ -15,7 +15,7 @@ Chatlol.site is a lightweight, real-time web chat application designed for simpl
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/chatlol.site.git
+   git clone https://github.com/bruno-joj/chatlol.site.git
    ```
 
 2. Set up a MySQL database and import the provided SQL schema:
