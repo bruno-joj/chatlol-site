@@ -21,9 +21,9 @@ session_start();
 
 // Configurações do banco de dados
 define('DB_HOST', getenv('DB_HOST') ?: 'localhost');
-define('DB_NAME', getenv('DB_NAME') ?: 'chatsystem');
-define('DB_USER', getenv('DB_USER') ?: 'chatuser');
-define('DB_PASS', getenv('DB_PASS') ?: 'LalXK3v7lFrtmxYYMpYB');
+define('DB_NAME', getenv('DB_NAME') ?: 'DATABASE-NAME');
+define('DB_USER', getenv('DB_USER') ?: 'DATABASE-USER-NAME');
+define('DB_PASS', getenv('DB_PASS') ?: 'YOUR-DATA-BASE-PASSWORD');
 
 // Headers de segurança
 header('X-Frame-Options: DENY');
